@@ -1,0 +1,22 @@
+.button {
+    padding: 10px 20px;
+    border-radius: 10px;
+
+    &:hover {
+        cursor: pointer;
+        opacity: 0.8;
+    }
+}
+
+
+.danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: white;
+}
+
+.success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+}

@@ -1,0 +1,11 @@
+.paragraphSomething {
+    color: red
+}
+
+.heading {
+    font-size: 10px;
+}
+
+/* CSS module để tạo ra file css độc lập không bị ảnh hưởng tới nhau */
+/* Không sử dụng tag name ,'*' vì không thể module */
+/* Viết tên class theo quy tắc Camel Case */

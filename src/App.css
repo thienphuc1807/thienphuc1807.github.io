@@ -1,0 +1,7 @@
+.dark {
+  color: #fff;
+  background-color: #333;
+}
+
+/* Development: npm start / yarn start -> CSS internal */
+/* Production: npm run build / yarn build -> CSS external */
